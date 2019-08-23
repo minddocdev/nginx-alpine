@@ -9,7 +9,8 @@ Each docker image tag points to a specific Nginx Alpine version.
 
 | Git Tag                                                        | Nginx Version                                              | Docker Tags       |
 | :------------------------------------------------------------: |:----------------------------------------------------:| :----------------:|
-| 1.17.3 | [1.17.3](https://github.com/nginxinc/docker-nginx/releases/tag/1.17.3) | `1.17.3`, `latest` |
+| 1.17.3 | [1.17.3](https://github.com/nginxinc/docker-nginx/releases/tag/1.17.3) | `1.17.3` |
+| 1.16.0 | [1.16.0](https://github.com/nginxinc/docker-nginx/releases/tag/1.16.0) | `1.16.0`, `latest` |
 
 ## Docker Hub
 
