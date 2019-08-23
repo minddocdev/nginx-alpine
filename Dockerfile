@@ -8,6 +8,6 @@
 # authors:  development@minddoc.com
 # ------------------------------------------------------
 
-FROM nginx:1.17.3-alpine
+FROM nginx:1.16.0-alpine
 
 LABEL maintainer="development@minddoc.com"
