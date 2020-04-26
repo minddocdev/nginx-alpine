@@ -8,6 +8,8 @@
 # authors:  development@minddoc.com
 # ------------------------------------------------------
 
-FROM nginx:1.16.0-alpine
+FROM nginx:1.17.10-alpine
+
+RUN apk add --update npm yarn
 
 LABEL maintainer="development@minddoc.com"
