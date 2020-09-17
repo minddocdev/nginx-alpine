@@ -8,7 +8,7 @@
 # authors:  development@minddoc.com
 # ------------------------------------------------------
 
-FROM nginx:1.17.10-alpine
+FROM nginx:stable-alpine
 
 RUN apk add --update npm yarn
 
